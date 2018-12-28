@@ -12,4 +12,4 @@ Developed with **Embarcadero Delphi 10.2 Tokyo**.
 
 # DllStub
 
-Test project required to demonstrate the work **DllCallbacker**.
+Test project required to demonstrate the work of **DllCallbacker** project.
